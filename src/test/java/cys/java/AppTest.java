@@ -40,4 +40,9 @@ public class AppTest
     {
         assertTrue( 2 + 2 == 4 );
     }
+
+    public void testSubtract()
+    {
+        assertTrue( 2 - 2 == 0 );
+    }
 }
