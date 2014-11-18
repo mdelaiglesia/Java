@@ -35,4 +35,9 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void testAdd()
+    {
+        assertTrue( 2 + 2 == 4 );
+    }
 }
