@@ -38,7 +38,7 @@ public class AppTest
     
     public void testAdd()
     {
-        assertTrue( 2 + 2 == 5 );
+        assertTrue( 2 + 2 == 4 );
     }
 
     public void testSubtract()
